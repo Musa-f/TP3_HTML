@@ -1,7 +1,7 @@
 caption{
     font-size: 2rem;
-    font-weight: 500;
-    margin: 5px;
+    font-weight: bold;
+    margin: 10px;
 }
 
 table{
@@ -10,6 +10,7 @@ table{
 }
 
 tr, td, th{
+    padding: 10px;
     border: solid black 2px;
 }
 
