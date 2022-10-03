@@ -3,6 +3,6 @@ table{
     border: solid black 2px;
 }
 
-tr, td{
+tr, td, th{
     border: solid black 2px;
 }
