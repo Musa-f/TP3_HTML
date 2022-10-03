@@ -21,3 +21,7 @@ th{
 .realisateur{
     background: gainsboro;
 }
+
+.ligne{
+    border-top: double 4px black;
+}
