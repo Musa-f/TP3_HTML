@@ -1,3 +1,9 @@
+caption{
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 5px;
+}
+
 table{
     border-collapse: collapse;
     border: solid black 2px;
@@ -5,4 +11,8 @@ table{
 
 tr, td, th{
     border: solid black 2px;
+}
+
+th{
+    background: yellow;
 }
